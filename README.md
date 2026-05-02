@@ -1,4 +1,4 @@
-# RotaMe — Android
+# RotaMe
 
 > A location saving and discovery app — mark your favorite places on the map, upload photos, and revisit your memories anytime.
 
